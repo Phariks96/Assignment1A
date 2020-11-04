@@ -1,0 +1,34 @@
+body{
+    background-color: #ffffff;
+    width: 90%;
+    margin: auto;
+}
+.img{
+background-color: red;
+border-radius: 50%;
+float: right;
+}
+ul{
+ list-style-type: none; 
+ float: left;  
+}
+li{
+    float: left;
+    margin: 50px;
+}
+.timetable{
+    background-color: slateblue;
+    margin-left: auto;
+    width: 700px;
+}
+.name{
+color: red;
+}
+.tab1{
+    width: 100%;
+background-color: teal;
+}
+h2{
+    text-align: center;
+    
+}
